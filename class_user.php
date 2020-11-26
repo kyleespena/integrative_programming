@@ -20,4 +20,4 @@
     $kyle=new User ("Kyle Leigh Espeña", "Zayn Yap", "jasyle92@gmail.com");
     $kyle->addFriend();
     $kyle->postStatus();
-?>
+?> 
